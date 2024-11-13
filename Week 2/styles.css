@@ -1,0 +1,27 @@
+/*
+  Pragmatic JavaScript
+  Chapter 1
+  Programming Assignment
+
+  Author: Riley
+  Date: 11-9-24
+  Filename: styles.css
+*/
+
+/* Your CSS goes here */
+body{
+  padding: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: large;
+  color: black;
+  background-color: silver;
+}
+
+#mainContainer{
+  margin-left: 45px;
+}
+
+#header{
+  margin-left: 20px;
+}
+
