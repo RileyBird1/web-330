@@ -1,0 +1,21 @@
+/*
+  Pragmatic JavaScript
+  Chapter 3
+  Programming Assignment
+
+  Author: Riley
+  Date: 12/8/24
+  Filename: styles.css
+*/
+
+/* Add your CSS styles here */
+body {
+  padding: 2%;
+  color:black;
+  background-color:silver;
+  font-family: 'Times New Roman', Times, serif;
+}
+.chef-container {
+  background-color: lightgrey;
+  margin-right: 70%;
+}
