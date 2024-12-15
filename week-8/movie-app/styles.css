@@ -1,0 +1,21 @@
+/*
+  Pragmatic JavaScript
+  Chapter 4
+  Programming Assignment
+
+  Author: Riley
+  Date:  12/15/24
+  Filename: styles.css
+*/
+
+/* Add your styles here */
+body {
+  padding: 2%;
+  color:black;
+  background-color:silver;
+  font-family: 'Times New Roman', Times, serif;
+}
+#movie-info {
+  background-color: lightgrey;
+  margin-right: 50%;
+}
